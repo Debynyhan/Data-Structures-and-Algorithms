@@ -1,2 +1,7 @@
 # Data-Structures-and-Algorithms
 This program extract data from a CSV file, and it insert the data into a BST
+
+The academic advisors in the Computer Science department at ABCU want me to write a program that correctly reads a CSV file. This program will prompt the user to ask for the file name containing the course data and read that file into course objects stored in a binary search tree data structure. Furthermore, the code will sort and print out a list of the courses in alphanumeric order.  
+I approach this problem by gathering ABCU’s requirements and choosing the appropriate data structure based on those requirements. Data structures are important to understand because they dictate which algorithms are going to be implemented. Data structures bring the data elements together in a logical way. Understanding data structures is essential for designing effective and efficient algorithms. 
+I overcame challenges by using resources such as Stack Overflow, GeeksforGeeks, and YouTube. More importantly, I put in countless hours of debugging my code. This project expanded my approach to designing software and developing programs by teaching me the importance of data structures and algorithms. 
+This project taught me the importance of writing maintainable, readable, and adaptable code because during the software development life cycle several changes will occur. Being able to come back to your code and understand its logistics will help you maintain the code throughout its life cycle. 
